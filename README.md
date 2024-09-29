@@ -11,7 +11,7 @@ blogs:
 ## Domains
 
 + [digitName - Domains Portoflio](http://www.digitname.com)
-+ [askDomainer - Domains Chat Support](http://www.digitname.com)
++ [askDomainer - Domains Chat Support](http://www.digitname.com) - or security issue tester
 + [domainLeak - low cost domains](http://www.domainsleak.com)
 
 ## Services
