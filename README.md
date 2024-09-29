@@ -1,4 +1,4 @@
-# portfolio
+# About Sapletta
 
 ## Information
 blogs:
@@ -10,9 +10,9 @@ blogs:
 
 ## Domains
 
-+ [digitname - Domains Portoflio](http://digitname.com)
-Domains Chat Support
-
++ [digitName - Domains Portoflio](http://www.digitname.com)
++ [askDomainer - Domains Chat Support](http://www.digitname.com)
++ [domainLeak - low cost domains](http://www.domainsleak.com)
 
 ## Services
 
